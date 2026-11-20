@@ -19,6 +19,10 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![SysAdmin](https://img.shields.io/badge/SysAdmin-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-009688?style=for-the-badge&logo=cisco&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
 
 
 
