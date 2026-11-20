@@ -13,11 +13,13 @@
 
 ### 🛠️ Навички та інструменти
 
-![Linux](https://shields.io)
-![Kali Linux](https://shields.io)
-![TryHackMe](https://shields.io)
-![PortSwigger](https://shields.io)
-![SysAdmin](https://shields.io)
+![Linux](img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![PHP](img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TryHackMe](img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![PortSwigger](img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![SysAdmin](img.shields.io/badge/SysAdmin-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+
 
 
 
