@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- Верхній банер -->
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
 
-<!--
-**syfdrh45terdsf/syfdrh45terdsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привіт! 👋 Мене звати Антон
 
-Here are some ideas to get you started:
+**Я студент, вивчаю кібербезпеку та основи системного адміністрування.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Проходжу практичні кімнати та лабораторії на платформах **TryHackMe** та **PortSwigger Web Security Academy**. Цікавлюся веббезпекою, мережами та адмініструванням Linux-серверів.
+
+---
+
+### 🛠️ Навички та інструменти
+
+![Linux](https://shields.io)
+![Kali Linux](https://shields.io)
+![TryHackMe](https://shields.io)
+![PortSwigger](https://shields.io)
+![SysAdmin](https://shields.io)
+
+
+---
+
+
+<!-- <p align="center">
+  <a href="https://t.me">
+    <img src="https://shields.io" alt="Telegram"/>
+  </a>
+   <a href="mailto:ВАША_ПОШТА@gmail.com">
+    <img src="https://shields.io" alt="Gmail"/>
+  </a> 
+  <a href="https://tryhackme.com">
+    <img src="https://shields.io" alt="TryHackMe"/>
+  </a>
+</p> -->
